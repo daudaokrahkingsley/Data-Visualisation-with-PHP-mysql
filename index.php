@@ -1,5 +1,3 @@
-
-
 <?php  
  $connect = mysqli_connect("localhost", "root", "", "myGraph_db");  
  $query = "SELECT region, count(*) as hiv_number FROM people GROUP BY region";  
