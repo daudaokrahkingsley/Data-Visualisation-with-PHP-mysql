@@ -38,7 +38,7 @@
                 <h3 align="center">Regional HIV Breakdown</h3>  
                 <br />  
                      
-                <div id="piechart" style="width: 1300px; height: 500px;"></div> 
+                <div id="piechart" style="width: 1200px; height: 600px;"></div> 
    		 
            </div>  
       </body>  
